@@ -1,0 +1,3 @@
+# Large binaries & temp files
+cloudflared.exe
+*.bak
